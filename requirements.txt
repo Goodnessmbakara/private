@@ -1,0 +1,4 @@
+django-model-utils >= 4.1.1
+Django>=3.1.7, <3.3.0
+django_extensions>=3.1.1
+channels>=3.0.3,<4.0
